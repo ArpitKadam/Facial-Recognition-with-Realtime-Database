@@ -9,7 +9,7 @@ This project is a web application that allows users to update their information 
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.8+ an above
 - Required Python packages are listed in `requirements.txt`.
 
 ### Installing dependencies
